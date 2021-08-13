@@ -1,0 +1,11 @@
+@media (min-width:768px){
+    header{
+        background-image: url(../IMAGES/bg-image.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .info_box{
+        flex-wrap: wrap;
+    }
+}
